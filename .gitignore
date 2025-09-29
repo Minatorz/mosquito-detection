@@ -1,0 +1,9 @@
+.venv/
+data/
+src/data/
+tests/
+
+poetry.lock
+poetry.toml
+pyproject.toml
+
